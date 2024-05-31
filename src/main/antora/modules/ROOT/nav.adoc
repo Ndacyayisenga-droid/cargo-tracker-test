@@ -3,11 +3,11 @@ xref:index.adoc[]
 
 .Characterization
 
-* xref:characterization:intro.adoc[]
+* xref:characterization:intro.adoc[Introduction]
 
-* xref:characterization:entities.adoc[]
+* xref:characterization:entities.adoc[Entities]
 
-* xref:characterization:valueobjects.adoc[]
+* xref:characterization:valueobjects.adoc[Value Objects]
 
 * xref:characterization:domainevents.adoc[]
 
