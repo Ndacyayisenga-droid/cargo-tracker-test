@@ -3,10 +3,11 @@ xref:index.adoc[]
 
 .Characterization
 
-* xref:characterization:main/main.adoc[]
+* xref:characterization:main/main.adoc[Characterization]
 
 .Getting Started
 
+* xref:gettingstarted:main/main.adoc[Getting Started]
 
 
 .Jakarta EE and DDD
