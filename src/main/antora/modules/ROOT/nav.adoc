@@ -7,13 +7,6 @@ xref:index.adoc[]
 
 .Getting Started
 
-* xref:gettingstarted:screencast.adoc[Screen Cast]
-
-* xref:gettingstarted:exploringthecode.adoc[Exploring the Code]
-
-* xref:gettingstarted:runningtheapplication.adoc[Running the Application]
-
-* xref:gettingstarted:clouddemo.adoc[Cloud Demo]
 
 
 .Jakarta EE and DDD
