@@ -5,23 +5,6 @@ xref:index.adoc[]
 
 * xref:characterization:main/main.adoc[]
 
-// * xref:characterization/main:entities.adoc[Entities]
-
-// * xref:characterization/main:valueobjects.adoc[Value Objects]
-
-// * xref:characterization/main:domainevents.adoc[Domain Events]
-
-// * xref:characterization/main:aggregates.adoc[Aggregates]
-
-// * xref:characterization/main:repositories.adoc[Repositories]
-
-// * xref:characterization/main:factories.adoc[Factories]
-
-// * xref:characterization:domainservices.adoc[Domain Services]
-
-// * xref:characterization:applicationservices.adoc[Application Services]
-
-
 .Getting Started
 
 * xref:gettingstarted:screencast.adoc[Screen Cast]
