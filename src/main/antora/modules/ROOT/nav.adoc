@@ -3,23 +3,23 @@ xref:index.adoc[]
 
 .Characterization
 
-* xref:characterization:intro.adoc[Introduction]
+* xref:characterization/main:intro.adoc[Introduction]
 
-* xref:characterization:entities.adoc[Entities]
+* xref:characterization/main:entities.adoc[Entities]
 
-* xref:characterization:valueobjects.adoc[Value Objects]
+* xref:characterization/main:valueobjects.adoc[Value Objects]
 
-* xref:characterization:domainevents.adoc[Domain Events]
+* xref:characterization/main:domainevents.adoc[Domain Events]
 
-* xref:characterization:aggregates.adoc[Aggregates]
+* xref:characterization/main:aggregates.adoc[Aggregates]
 
-* xref:characterization:repositories.adoc[Repositories]
+* xref:characterization/main:repositories.adoc[Repositories]
 
-* xref:characterization:factories.adoc[Factories]
+* xref:characterization/main:factories.adoc[Factories]
 
-* xref:characterization:domainservices.adoc[Domain Services]
+* xref:characterization/main:domainservices.adoc[Domain Services]
 
-* xref:characterization:applicationservices.adoc[Application Services]
+* xref:characterization/main:applicationservices.adoc[Application Services]
 
 
 .Getting Started
